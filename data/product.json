@@ -1,0 +1,76 @@
+{
+  "products": [
+    {
+      "type": "plant",
+      "name": "알로에",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry",
+      "image": "../imgs/product/plant_aloeVera.jpg"
+    },
+    {
+      "type": "plant",
+      "name": "몬스테라",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry",
+      "image": "../imgs/product/plant_monstera.jpg"
+    },
+    {
+      "type": "plant",
+      "name": "몬스테라 미니마",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry",
+      "image": "../imgs/product/plant_monsteraMinima.jpg"
+    },
+    {
+      "type": "plant",
+      "name": "금전수",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry",
+      "image": "../imgs/product/plant_금전수.jpg"
+    },
+    {
+      "type": "plant",
+      "name": "아펠란드라",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry",
+      "image": "../imgs/product/plant_아펠란드라.jpg"
+    },
+    {
+      "type": "flower",
+      "name": "해바라기",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry",
+      "image": "../imgs/product/flower_1.jpg"
+    },
+    {
+      "type": "flower",
+      "name": "라벤더",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry",
+      "image": "../imgs/product/flower_2.jpg"
+    },
+    {
+      "type": "flower",
+      "name": "장미",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry",
+      "image": "../imgs/product/flower_3.jpg"
+    },
+    {
+      "type": "flower",
+      "name": "백합",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry",
+      "image": "../imgs/product/flower_4.jpg"
+    },
+    {
+      "type": "cactus",
+      "name": "선인장",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry",
+      "image": "../imgs/product/cactus_1.jpg"
+    },
+    {
+      "type": "cactus",
+      "name": "선인장 + 꽃",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry",
+      "image": "../imgs/product/cactus_2.jpg"
+    },
+    {
+      "type": "cactus",
+      "name": "다육이",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry",
+      "image": "../imgs/product/cactus_3.jpg"
+    }
+  ]
+}
